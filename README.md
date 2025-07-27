@@ -1,8 +1,8 @@
-🔧 CRM Extractor Tool
-Live Link: crm-extractor-tool.netlify.app
-
 # CRM-Extractor
 An automated CRM Extractor tool that replaces manual data parsing with a smart, AI-powered solution. Built using ChatGPT and deployed on Netlify, it simplifies CRM data extraction, saves time, and improves accuracy for teams handling customer information.
+
+🔧 CRM Extractor Tool
+Live Link: crm-extractor-tool.netlify.app
 
 🚀 The Problem:
 Previously, our team relied on manual data processing for every CRM entry, which led to:
